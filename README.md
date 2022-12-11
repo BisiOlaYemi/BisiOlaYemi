@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
-- 👨‍💻 All of my projects are available at (https://easycars.ng, https://readyhomesandproperties.com, https://octavepartners.ng)
+- 👨‍💻 All of my projects are available at (https://easycars.ng, https://readyhomesandproperties.com, https://octavepartners.com)
 
 - 💬 Ask me about **javaScript, Golang, PHP, SQL and Bootstrap**
 
