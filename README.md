@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ecommerce Website](commerc.netlify.app)
 
-- 🌱 I’m currently learning **DeVOps, python and Network Automation**
+- 🌱 I’m currently learning **DeVOps, Python Network Automation**
 
 - 👯 I’m looking to collaborate on **Golang, Python and DevOps Projects**
 
