@@ -15,7 +15,7 @@
 
 - 👨‍💻 All Official projects(internal & external) are available at (https://easycars.ng, https://readyhomesandproperties.com, https://octavepartners.com)
 
-- 💬 Ask me about **javaScript, Golang, PHP, SQL and Bootstrap**
+- 💬 Ask me about **javaScript, Python Django, Golang, PHP, SQL and Bootstrap**
 
 - 📫 How to reach me **contact@bisiolayemi.com.ng**
 
