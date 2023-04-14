@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
-- 👨‍💻 All Official projects(internal & external) are available at (https://easycars.ng, https://readyhomesandproperties.com, https://simbas.ng/, https://octavepartners.com)
+- 👨‍💻 All Official projects(internal & external) are available at (http://readycars.ng, https://simbas.ng/, https://octavepartners.com https://weown.estate)
 
 - 💬 Ask me about **javaScript, pythonDjango, Golang, PHP, SQL and Bootstrap**
 
