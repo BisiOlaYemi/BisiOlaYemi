@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **javaScript, Reactjs, Node, python Django, Golang, PHP, SQL and Bootstrap**
 
-- 📫 How to reach me **contact@bisiolayemi.com.ng**
+- 📫 How to reach me **ogunrinde_olayemi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
