@@ -5,15 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **DeVOps, Python Network Automation**
-
-- 👯 I’m looking to collaborate on ** Python and DevOps Projects**
+- 👯 I’m looking to collaborate on ** Python Cloud and DevOps Projects**
 
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
-- 👨‍💻 All Official projects(internal & external) are available at (http://readycars.ng, https://simbas.ng/, https://octavepartners.com https://weown.estate, https://registration.careerhaven.ca, https://careerhaven.ca https://bisiolayemi.com.ng/, https://withires.vercel.app/)
+- 👨‍💻 All Official projects(internal & external) are available at (http://readycars.ng, https://simbas.ng/, https://octavepartners.com https://registration.careerhaven.ca, https://careerhaven.ca, https://withires.vercel.app/)
 
-- 💬 Ask me about **javaScript, pythonDjango, Golang, PHP, SQL and Bootstrap**
+- 💬 Ask me about **javaScript, Reactjs, Node, python Django, Golang, PHP, SQL and Bootstrap**
 
 - 📫 How to reach me **contact@bisiolayemi.com.ng**
 
