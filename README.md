@@ -9,7 +9,14 @@
 
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
-- 👨‍💻 All Official projects(internal & external) are available at (http://readycars.ng, https://simbas.ng/, https://registration.careerhaven.ca, https://careerhaven.ca, https://withires.vercel.app/, https://charity-webapp.vercel.app/)
+- 👨‍💻 All Official projects(internal & external) are available at 
+(http://readycars.ng, https://simbas.ng/,
+https://registration.careerhaven.ca, 
+https://careerhaven.ca, 
+https://withires.vercel.app/, 
+https://charity-webapp.vercel.app/
+https://yemi-sigma.vercel.app/
+https://enchancz.vercel.app/)
 
 - 💬 Ask me about **javaScript, Reactjs, Node, python Django, Golang, PHP, SQL and Bootstrap**
 
