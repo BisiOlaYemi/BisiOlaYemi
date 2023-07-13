@@ -18,7 +18,7 @@ https://charity-webapp.vercel.app/
 https://yemi-sigma.vercel.app/
 https://enchancz.vercel.app/)
 
-- 💬 Ask me about **javaScript, Reactjs, Node, python Django, Golang, PHP, SQL and Bootstrap**
+- 💬 Ask me about **javaScript, Reactjs, Nextjs Node, python Django, Golang, PHP, SQL and Bootstrap**
 
 - 📫 How to reach me **ogunrinde_olayemi@yahoo.com**
 
