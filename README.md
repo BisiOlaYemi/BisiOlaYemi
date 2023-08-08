@@ -16,6 +16,7 @@ https://careerhaven.ca,
 https://withires.uk/, 
 https://www.debenedictinitiative.org/,
 https://yemi-sigma.vercel.app/,
+https://challenge-chi-rouge.vercel.app/
 [https://enchancz.vercel.app/](https://enhancz.vercel.app/) )
 
 - 💬 Ask me about **javaScript, Reactjs, Nextjs Node, python Django, Golang, PHP, SQL and Bootstrap**
