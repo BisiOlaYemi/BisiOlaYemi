@@ -5,7 +5,7 @@
 
 
 
-- 👯 I’m looking to collaborate on ** Python Cloud and DevOps Projects**
+- 👯 I’m looking to collaborate on ** Python Cloud Automation and DevOps Projects**
 
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
