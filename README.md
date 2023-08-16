@@ -9,8 +9,8 @@
 - 🤝 I’m looking for help with **DevOps, AWS, GCP Free tools**
 
 - 👨‍💻 All Official projects(internal & external) are available at 
-(https://readycars.ng, https://simbas.ng/,
-https://careerhaven.ca, 
+(https://readycars.ng, https://registration.careerhaven.ca, https://simbas.ng/,
+http://careerhaven.ca, 
 https://withires.uk/, 
 https://www.debenedictinitiative.org/,
 https://yemi-sigma.vercel.app/,
