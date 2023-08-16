@@ -10,7 +10,6 @@
 
 - 👨‍💻 All Official projects(internal & external) are available at 
 (https://readycars.ng, https://simbas.ng/,
-https://registration.careerhaven.ca, 
 https://careerhaven.ca, 
 https://withires.uk/, 
 https://www.debenedictinitiative.org/,
