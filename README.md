@@ -10,7 +10,7 @@
 
 - 👨‍💻
 
-- 💬 Ask me about **javaScript, Reactjs, Nextjs Node.js, Nestjs, Django, Golang, PHP, SQL and Bootstrap**
+- 💬 Ask me about **JavaScript, Reactjs, Nextjs Node.js, Nestjs, Django, Golang, PHP, SQL and Bootstrap**
 
 - 📫 How to reach me **ogunrinde_olayemi@yahoo.com**
 
