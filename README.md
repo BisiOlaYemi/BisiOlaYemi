@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to get help with **DevOps, AWS, GCP Free tools**
 
-- 👨‍💻
+- 👨‍💻 I'm ready for work! isReady == true;
 
 - 💬 Ask me about **JavaScript, Reactjs, Nextjs Node.js, Nestjs, Django, Golang, PHP, SQL and Bootstrap**
 
