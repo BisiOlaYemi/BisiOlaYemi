@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisiolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="bisiolayemi" /> </p>
 
 
-- 👯 I’m looking to collaborate on ** Python Cloud Automation and DevOps Projects**
+- 👯 I’m looking to collaborate on ** Cloud Automation and DevOps Projects**
 
 - 🤝 I’m looking to get help with **DevOps, AWS, GCP Free tools**
 
