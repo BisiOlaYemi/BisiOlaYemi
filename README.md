@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on ** Cloud Automation and DevOps Projects**
 
-- 🤝 I’m looking to collaborate on **DevOps, AWS, GCP Free tools**
-
 - 👨‍💻 I'm ready for work! isReady == true;
 
 - 💬 Ask me about **JavaScript, Reactjs, Nextjs Node.js, Nestjs, Django, Golang, PHP, SQL and Bootstrap**
