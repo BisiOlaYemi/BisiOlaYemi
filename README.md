@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Yemi Ogunrinde</h1>
-<h3 align="center"> A Productive Software Developer</h3>
+<h3 align="center"> A Productive Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisiolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="bisiolayemi" /> </p>
 
 
-- 👯 I’m looking to get gig in ** Cloud Automation and DevOps Projects**
+- 👯 I’m looking to provide ** Cloud Automation and DevOps Projects service**
 
 - 👨‍💻 I'm ready for work! isReady == true;
 
