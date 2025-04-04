@@ -16,6 +16,6 @@
 <p align="left">
 <a href="https://dev.to/bisiolayemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bisiolayemi" height="30" width="40" /></a>
 <a href="https://twitter.com/bisiolayemi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bisiolayemi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olayemi-ogunrinde-fcas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olayemi-ogunrinde-fcas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yemiogunrinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olayemi-ogunrinde" height="30" width="40" /></a>
 </p>
 
