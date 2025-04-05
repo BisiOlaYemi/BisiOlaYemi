@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisiolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="bisiolayemi" /> </p>
 
 
-- 👯 I’m looking to provide ** Cloud Automation and DevOps services**
+- 👯 Mostly, I Provide ** Backend and Cloud Engineering Solution to businesses **
 
 - 👨‍💻 I'm ready for work! isReady == true;
 
