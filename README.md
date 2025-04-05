@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm ready for work! isReady == true;
 
-- 💬 Ask me about **JavaScript, Reactjs, Nextjs Node.js, Nestjs, Django, Golang, FastApi, SQL and PHP**
+- 💬 Ask me about **Node.js, Nestjs, Python FastApi, Django, Golang, PSQL MongoDB**
 
 - 📫 How to reach me **ogunrinde_olayemi@yahoo.com**
 
