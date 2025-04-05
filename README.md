@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisiolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="bisiolayemi" /> </p>
 
 
-- 👯 Mostly, I Provide ** Backend and Cloud Engineering Solution to businesses **
+- 👯 Mostly, I Provide **Backend and Cloud Engineering Solution to businesses**
 
 - 👨‍💻 I'm ready for work! isReady == true;
 
-- 💬 Ask me about **Node.js, Nestjs, Python FastApi, Django, Golang, PSQL MongoDB**
+- 💬 Ask me about **Node.js Nest, Prisma, Python FastApi, Django, Golang, PSQL MongoDB**
 
 - 📫 How to reach me **ogunrinde_olayemi@yahoo.com**
 
