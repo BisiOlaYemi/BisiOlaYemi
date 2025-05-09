@@ -8,7 +8,9 @@
 
 - 👨‍💻 I'm the creator of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
 
-- 👨‍💻 I'm ready for work! isReady == true;
+- 👨‍💻 I'm the creator of <a href="https://github.com/Fluxgo/flux"> flux the Go framework </a>
+
+- 👨‍💻 Ready for work?? isReady == true;
 
 - 💬 Ask me about **Node.js Nest, Prisma, Python FastApi, Django, Golang, PSQL MongoDB**
 
