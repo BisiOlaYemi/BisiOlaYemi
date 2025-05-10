@@ -6,9 +6,9 @@
 
 - 👯 Mostly, I Provide **Backend and Cloud Engineering Solution to businesses**
 
-- 👨‍💻 I'm the creator of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
+-  👨‍💻 I'm the creator of := <a href="https://goflux.online"> flux the GO framework </a>
 
-- 👨‍💻 I'm the creator of <a href="https://goflux.online"> flux the GO framework </a>
+- 👨‍💻 I'm the creator of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
 
 - 👨‍💻 Ready for work?? isReady == true;
 
