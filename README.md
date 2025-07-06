@@ -6,7 +6,7 @@
 
 - 👯 Mostly, I Provide **Backend and Cloud Engineering Solution to businesses**
 
--  👨‍💻 I'm the creator of := <a href="https://goflux.online"> flux! the GOLang framework </a>
+-  👨‍💻 I'm the author of := <a href="https://goflux.online"> flux! the GOLang framework </a>
 
 - 👨‍💻 I'm the creator of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
 
