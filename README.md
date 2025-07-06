@@ -8,7 +8,7 @@
 
 -  👨‍💻 I'm the author of := <a href="https://goflux.online"> flux! the GOLang framework </a>
 
-- 👨‍💻 I'm the creator of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
+- 👨‍💻 I'm the author of <a href="https://pypi.org/project/fastapi-autodoc/">FastApi Auto Doc library</a>
 
 - 👨‍💻 Ready for work?? isReady == true;
 
