@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisiolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="bisiolayemi" /> </p>
 
 
-- 👯 Mostly, I Provide **Backend and Cloud Engineering Solution to businesses**
+- 👯 I Provide **Backend, full stack & Cloud Engineering Solution to businesses**
 
 -  👨‍💻 I'm the author of := <a href="https://goflux.online"> flux! the GOLang framework </a>
 
